@@ -18,7 +18,7 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'Fiverr',
       companyUrl: 'https://fiverr.com/',
-      role: 'Data Engineer',
+      role: 'Web Developer',
       started: 'October 2023',
       upto: 'January 2024',
       tasks: [

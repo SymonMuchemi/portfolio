@@ -15,31 +15,32 @@ export const socialLinks: StringKeyValueType = {
 };
 
 export const author = {
-  name: 'Muhammad Talha Ramzan',
-  email: 'c2.tlhah@gmail.com',
+  name: 'Simon Muchemi',
+  email: 'muchemi.developer@gmail.com',
 };
 
 export const seoData = {
-  title: 'Muhammad Talha | Portfolio',
-  description: 'Passionate about Data Engineering and Mahine Learning, focusing on creating innovative digital solutions.',
+  title: 'Simon Muchemi | Portfolio',
+  description:
+    'Passionate about Web Developering and Mahine Learning, focusing on creating innovative digital solutions.',
   author: author.name,
   image: 'https://i.postimg.cc/7hTb4LDz/Portfolio.png',
   url: 'https://vercel.app',
   keywords: [
-    'Talha',
-    'Muhammad Talha',
-    'Muhammad Talha Ramzan',
-    '@o21tlha',
-    'talha ramzan',
-    'o21ex',
-    '@muhammadtalha',
-    '@talha',
+    'Muchemi',
+    'Simon Muchemi',
+    'Simon Muchemi',
+    '@symonmuchemi',
+    'Simon Muchemi',
+    'muchemi',
+    '@symonmuchemi',
+    '@symonmuchemi',
     'Portfolio',
-    'Talha Portfolio',
-    'Muhammad Talha Portfolio',
-    'Muhammad Talha Ramzan Portfolio',
-    'c2-tlhah',
-    '@talharamzan',
-    'o21tlha Portfolio ',
+    'Muchemi Portfolio',
+    'Simon Muchemi Portfolio',
+    'Simon Muchemi Portfolio',
+    'Muchemi',
+    '@SymonMuchemi',
+    'Muchemi Portfolio ',
   ],
 };
