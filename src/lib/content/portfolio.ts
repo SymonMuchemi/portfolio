@@ -24,7 +24,7 @@ export const seoData = {
   description:
     'Passionate about Web Development, focusing on creating innovative digital solutions.',
   author: author.name,
-  image: 'https://i.postimg.cc/7hTb4LDz/Portfolio.png',
+  image: 'https://i.postimg.cc/G2g2Mn1q/portfolio-page.png',
   url: 'https://vercel.app',
   keywords: [
     'Muchemi',
