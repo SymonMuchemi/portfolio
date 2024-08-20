@@ -1,9 +1,7 @@
-<h1 align="corner">
- My Personal Portfolio Website!!!
-</h1>
+# My Personal Portfolio Website
 
 <p align="center">
-    <a href="https://o21ex.me" style="text-decoration: none;">
+    <a href="https://muchemi.vercel.app/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
     </a>
 </p>
@@ -14,15 +12,18 @@
 
 <br>
 
-[![My Portfolio](https://i.postimg.cc/7hTb4LDz/Portfolio.png)](https://o21ex.me/)
+[![My Portfolio](https://i.postimg.cc/G2g2Mn1q/portfolio-page.png)](https://muchemi.vercel.app/)
 
 ## Table of Contents
 
-- [Sections](#sections)
-- [Built With](#built-with)
-- [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
-- [Show Your Support](#show-your-support)
+- [My Personal Portfolio Website](#my-personal-portfolio-website)
+  - [Table of Contents](#table-of-contents)
+  - [Sections](#sections)
+  - [Built With](#built-with)
+  - [How to use](#how-to-use)
+          - [To clone and run this application, you'll need Git and Node.js (which comes with yarn installed on your computer).](#to-clone-and-run-this-application-youll-need-git-and-nodejs-which-comes-with-yarn-installed-on-your-computer)
+  - [Acknowledgements](#acknowledgements)
+  - [Show Your Support](#show-your-support)
 
 ## Sections
 
@@ -49,25 +50,25 @@
 1. Fork this repository and clone the project
 
 ```bash
-  git clone https://github.com/<USERNAME>/<REPO NAME>.git
+  git clone https://github.com/symonmuchemi/portfolio.git
 ```
 
 2. Go to the project directory
 
 ```bash
-  cd repo-name
+  cd portfolio
 ```
 
 3. Install dependencies
 
 ```bash
-  yarn
+  npm install
 ```
 
 4. Start the server
 
 ```bash
-  yarn dev
+  npm run dev
 ```
 
 - To change the content, edit `src/lib/content/`
