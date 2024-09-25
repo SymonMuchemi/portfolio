@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://muchemi.vercel.app/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: o21ex.me">
+        <img src="https://img.shields.io/badge/Visit_my_portfolio-here-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit my portfolio here: muchemi.vercel.app/">
     </a>
 </p>
 <p align="center">

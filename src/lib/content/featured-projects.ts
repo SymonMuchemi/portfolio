@@ -20,21 +20,21 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
         { name: 'Tailwind', icon: 'vscode-icons:file-type-python' },
       ],
     },
-    // {
-    //   id: getId(),
-    //   name: 'Chat with Groq',
-    //   description: 'A chat application using Groq for real-time messaging.',
-    //   tasks:
-    //     'A chat application using Groq for real-time messaging. The project uses AIDL for communication between the client and server. It also uses Material You for dynamic theming and color theory for a better user experience.',
-    //   url: 'https://github.com/c2-tlhah/chat-with-groq',
-    //   img: 'https://i.postimg.cc/Sskwq1hf/1-Q-u-FKGw-JY8z1-U1yu-Te-f-RQ.webp',
-    //   projectSkills: [
-    //     { name: 'Python', icon: 'vscode-icons:file-type-python' },
-    //     { name: 'Streamlit', icon: 'logos:' },
-    //     { name: 'GROQ', icon: 'logos:' },
-    //     { name: 'Groq API', icon: 'logos:' },
-    //   ],
-    // },
+    {
+      id: getId(),
+      name: 'BookNest',
+      description: 'A library management system that allows librarians to keep proper records of members and books in a library.',
+      tasks:
+        'Keep book inventory, handle user registration, update and deletion. Handle Book inventory, issuance and retrieval. keep records of member charges.',
+      url: 'https://booknest78.vercel.app/',
+      img: 'https://i.postimg.cc/6pB0MRWv/books.png',
+      projectSkills: [
+        { name: 'Python', icon: 'vscode-icons:file-type-python' },
+        { name: 'Flask', icon: 'logos:' },
+        { name: 'React', icon: 'logos:' },
+        { name: 'CSS', icon: 'logos:' },
+      ],
+    },
   ],
 };
 
