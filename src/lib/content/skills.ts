@@ -6,13 +6,13 @@ export const skillsSection: SkillsSectionType = {
   skills: [
     {
       id: getId(),
-      title: 'Web Development',
+      title: 'Back-End Development',
       lottie: {
         light: '/lotties/frontend.json',
         dark: '/lotties/frontend-dark.json',
       },
       points: [
-        'Building reliable web solutions.',
+        'Building reliable full stack web solutions.',
         'Developing scalable web solutions.',
         'Leveraging LLMs and Machine Learning technologies to make powerful websites.',
       ],
@@ -25,21 +25,23 @@ export const skillsSection: SkillsSectionType = {
         { name: 'AWS', icon: 'vscode-icons:file-type-aws' },
         { name: 'Postgresql', icon: 'logos:postgresql' },
         { name: 'MySQL', icon: 'vscode-icons:file-type-sql' },
-        { name: 'Firebase', icon: 'vscode-icons:file-type-firebase' },
-        { name: 'Vercel', icon: 'vscode-icons:file-type-vercel' },
+        { name: 'MongoDB', icon: 'vscode-icons:file-type-mongo' },
+        { name: 'Flask', icon: 'logos:flask' },
+        { name: 'Express', icon: 'logos:express' },
       ],
     },
     {
       id: getId(),
-      title: 'Web Development',
+      title: 'System Design',
       lottie: {
         light: '/lotties/designing.json',
         dark: '/lotties/designing-dark.json',
       },
       points: [
-        'Using AI solutions to make intelligent web apps.',
-        'Developing sustainable websites',
-        'Building in teams to create a better web experience.',
+        'Designing scalable and maintainable system architectures.',
+        'Creating detailed system design documents.',
+        'Ensuring system reliability and performance.',
+        'Implementing best practices for system design.',
       ],
       projectSkills: [
         { name: 'Python', icon: 'vscode-icons:file-type-python' },
@@ -48,7 +50,25 @@ export const skillsSection: SkillsSectionType = {
         { name: 'Github', icon: 'logos:github-icon' },
         { name: 'AWS', icon: 'vscode-icons:file-type-aws' },
         { name: 'MySQL', icon: 'vscode-icons:file-type-sql' },
-        { name: 'Vercel', icon: 'vscode-icons:file-type-vercel' },
+      ],
+    },
+    {
+      id: getId(),
+      title: 'Quality Assurance',
+      lottie: {
+        light: '/lotties/designing.json',
+        dark: '/lotties/designing-dark.json',
+      },
+      points: [
+        'Testing application backend.',
+        'Ensuring software quality through automated testing.',
+        'Performing manual testing to identify bugs.',
+        'Collaborating with developers to resolve issues.',
+      ],
+      projectSkills: [
+        { name: 'Jest', icon: 'logos:jest' },
+        { name: 'Cypress', icon: 'logos:cypress' },
+        { name: 'Mocha', icon: 'logos:mocha' },
       ],
     },
   ],
