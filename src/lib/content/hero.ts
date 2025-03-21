@@ -5,14 +5,13 @@ export const heroSection: HeroSectionType = {
   subtitle: 'Hello, I’m',
   title: [
     'Simon Muchemi!',
-    'A Web Developer',
+    'A Software Engineer',
     'A Backend Developer',
-    'A Computer Scientist',
   ],
   tagline: 'Specializing in Backend Web Development.',
   description:
-    'I’m a Computer Science student at Dedan Kimathi University of Technology, specializing in Backend Web Development Technologies. I am passionate about acquiring new skills in web development and building projects to gain hands-on experience. I thrive on collaboration and am dedicated to turning innovative ideas into reality.',
-  specialText: 'Currently open to job opportunities and dev projects.',
+    'I’m a software engineer with a Computer Science degree from Dedan Kimathi University of Technology and a certified ALX Software Engineer, specializing in scalable, high-performance back-end systems. With expertise in TypeScript, Python, Node.js, Flask, PostgreSQL, MongoDB, and cloud technologies, I design and build robust applications that drive efficiency and reliability.',
+  specialText: 'Ready to work.',
   cta: {
     title: 'View My Resume',
     url: `/${resumeFileName}`,

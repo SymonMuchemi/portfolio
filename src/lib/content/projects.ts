@@ -6,7 +6,7 @@ export const projectsSection: ProjectsSectionType = {
   projects: [
     {
       id: getId(),
-      name: 'Data Modeling',
+      name: 'BookNest ',
       url: 'https://github.com/c2-tlhah/Data-Modeling-Project',
       repo: 'https://github.com/c2-tlhah/Data-Modeling-Project',
       img: 'https://i.postimg.cc/yNRDKYHc/Model-ERD.png',
@@ -14,8 +14,6 @@ export const projectsSection: ProjectsSectionType = {
       projectSkills: [
         { name: 'Python', icon: 'vscode-icons:file-type-python' },
         { name: 'SQL', icon: 'vscode-icons:file-type-sql' },
-        { name: 'Jupyter Notebook', icon: 'vscode-icons:file-type-jupyter' },
-        { name: 'PostgreSQL', icon: 'logos:postgresql' },
       ],
     },
     {

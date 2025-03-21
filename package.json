@@ -50,5 +50,15 @@
   "lint-staged": {
     "*.{js,jsx}": "eslint --fix",
     "*.{js,jsx,css,md}": "prettier --write"
+  },
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "sharp",
+      "yarn"
+    ],
+    "onlyBuiltDependencies": [
+      "sharp",
+      "yarn"
+    ]
   }
 }

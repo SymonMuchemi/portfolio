@@ -15,9 +15,9 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
       img: 'https://i.postimg.cc/YS4ZhYML/screenshot.png',
       projectSkills: [
         { name: 'OpenAI', icon: 'vscode-icons:file-type-python' },
-        { name: 'JavaScript', icon: 'vscode-icons:file-type-python' },
-        { name: 'Python', icon: 'vscode-icons:file-type-python' },
-        { name: 'Tailwind', icon: 'vscode-icons:file-type-python' },
+        { name: 'JavaScript', icon: 'vscode-icons:file-type-JavaScript' },
+        { name: 'Python', icon: 'vscode-icons:file-type-Python' },
+        { name: 'Tailwind', icon: 'vscode-icons:file-type-Taiwind' },
       ],
     },
     {
