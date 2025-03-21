@@ -4,40 +4,28 @@ export const experienceSection: ExperienceSectionType = {
   title: 'experience',
   experiences: [
     {
-      company: 'ICR',
-      companyUrl: 'https://itcentre.pk/',
-      role: 'Data Analyst',
-      started: 'June 2024',
-      upto: 'Ausgust 2024',
+      company: 'Teach2Give',
+      companyUrl: 'https://teach2give.com/',
+      role: 'QA/QE Intern',
+      started: 'September 2024',
+      upto: 'December 2024',
       tasks: [
-        'Developed and maintained data analytics reports for clients.',
-        'Automated data collection and processing using Python.',
-        'Collaborated with the development team to improve the data pipeline.',
+        "Contributed to the development and quality assurance of full-stack web applications using TypeScript",
+        "Wrote clean, maintainable code, implemented automated tests with Jest, and ensured application functionality aligned with user requirements.",
+        "Collaborated with cross-functional teams to identify and resolve bugs, optimize performance, and enhance user experience."
       ],
     },
     {
-      company: 'Fiverr',
-      companyUrl: 'https://fiverr.com/',
-      role: 'Web Developer',
-      started: 'October 2023',
-      upto: 'January 2024',
+      company: 'Dedan Kimathi University of Technology',
+      companyUrl: 'https://www.dkut.ac.ke/',
+      role: 'Computer Science Attachment',
+      started: 'February 2023',
+      upto: 'March 2023',
       tasks: [
-        'Developed and maintained data pipelines for ETL processes.',
-        'Automated data collection and processing using Python and Apache Spark.',
-        'Collaborated with the data science team to improve the data pipeline.',
+        'Gained foundational knowledge in networking, including simulation of network setups using Cisco PacketTracer.',
+        'Conducted practical exercises on computer hardware, building troubleshooting skills and hardware knowledge.',
+        'Studied the software development life-cycle, with hands-on experience in documenting and developing software projects.',
       ],
-    },
-    {
-      company: 'i2c Inc',
-      companyUrl: 'https://www.i2cinc.com/',
-      role: 'Solution Architect',
-      started: 'January 2024',
-      upto: 'March 2024',
-      tasks: [
-        'Designed and implemented scalable solutions for clients.',
-        'Developed proof of concepts for new projects.',
-        'Collaborated with the development team to improve the product architecture.',
-      ],
-    },
+    }
   ],
 };
