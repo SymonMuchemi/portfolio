@@ -25,7 +25,7 @@ export const seoData = {
     'Passionate about Web Development, focusing on creating innovative digital solutions.',
   author: author.name,
   image: 'https://i.postimg.cc/G2g2Mn1q/portfolio-page.png',
-  url: 'https://vercel.app',
+  url: 'https://muchemi.vercel.app',
   keywords: [
     'Muchemi',
     'Simon Muchemi',
@@ -35,6 +35,7 @@ export const seoData = {
     'muchemi',
     '@symonmuchemi',
     '@symonmuchemi',
+    '@muchemisymon',
     'Portfolio',
     'Muchemi Portfolio',
     'Simon Muchemi Portfolio',
