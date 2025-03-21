@@ -6,10 +6,24 @@ export const projectsSection: ProjectsSectionType = {
   projects: [
     {
       id: getId(),
-      name: 'BookNest ',
-      url: 'https://github.com/c2-tlhah/Data-Modeling-Project',
-      repo: 'https://github.com/c2-tlhah/Data-Modeling-Project',
-      img: 'https://i.postimg.cc/yNRDKYHc/Model-ERD.png',
+      name: 'Therabot-AI ',
+      url: 'https://github.com/Thera-Bot/TheraBot-AI',
+      repo: 'https://github.com/Thera-Bot/TheraBot-AI',
+      img: 'https://i.postimg.cc/YS4ZhYML/screenshot.png',
+      year: 2024,
+      projectSkills: [
+        { name: 'OpenAI', icon: 'vscode-icons:file-type-python' },
+        { name: 'JavaScript', icon: 'vscode-icons:file-type-JavaScript' },
+        { name: 'Python', icon: 'vscode-icons:file-type-Python' },
+        { name: 'Tailwind', icon: 'vscode-icons:file-type-Taiwind' },
+      ],
+    },
+    {
+      id: getId(),
+      name: 'BookNest API',
+      url: 'https://github.com/SymonMuchemi/BookNest-Server',
+      repo: 'https://github.com/SymonMuchemi/BookNest-Server',
+      img: 'https://i.postimg.cc/SNTg75sX/Screenshot-from-2025-03-21-08-11-07.png',
       year: 2024,
       projectSkills: [
         { name: 'Python', icon: 'vscode-icons:file-type-python' },
@@ -18,26 +32,14 @@ export const projectsSection: ProjectsSectionType = {
     },
     {
       id: getId(),
-      name: 'Autonomous Delivery Robot',
-      url: 'https://github.com/c2-tlhah/atnomous-delivery-robot',
-      repo: 'https://github.com/c2-tlhah/atnomous-delivery-robot',
-      img: 'https://i.postimg.cc/D00F2BXH/Delivery-Robot.png',
+      name: 'BookNest Client',
+      url: 'https://github.com/SymonMuchemi/BookNest-Client',
+      repo: 'https://github.com/SymonMuchemi/BookNest-Client',
+      img: 'https://i.postimg.cc/6pB0MRWv/books.png',
       year: 2024,
       projectSkills: [
         { name: 'Python', icon: 'vscode-icons:file-type-python' },
-        { name: 'Matplotlib', icon: 'logos:matplotlib' },
-      ],
-    },
-    {
-      id: getId(),
-      name: 'Sudoku Solver',
-      url: 'https://github.com/c2-tlhah/sudoku-solver',
-      repo: 'https://github.com/c2-tlhah/sudoku-solver',
-      img: 'https://i.postimg.cc/HxZDPXh2/sokuku.png',
-      year: 2024,
-      projectSkills: [
-        { name: 'Python', icon: 'vscode-icons:file-type-python' },
-        
+        { name: 'SQL', icon: 'vscode-icons:file-type-sql' },
       ],
     },
   ],
