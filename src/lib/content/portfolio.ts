@@ -22,7 +22,7 @@ export const author = {
 export const seoData = {
   title: 'Simon Muchemi | Portfolio',
   description:
-    'Passionate about Web Development, focusing on creating innovative digital solutions.',
+    'A skilled software engineer with a focus on back-end technologies.',
   author: author.name,
   image: 'https://i.postimg.cc/G2g2Mn1q/portfolio-page.png',
   url: 'https://muchemi.vercel.app',
