@@ -12,7 +12,7 @@
 
 <br>
 
-[![My Portfolio](https://i.postimg.cc/G2g2Mn1q/portfolio-page.png)](https://muchemi.vercel.app/)
+[![My Portfolio](https://i.postimg.cc/G2g2Mn1q/portfolio-page.png)](https://symonmuchemi.com/)
 
 ## Table of Contents
 
