@@ -60,7 +60,7 @@ export const skillsSection: SkillsSectionType = {
         dark: '/lotties/designing-dark.json',
       },
       points: [
-        'Testing application backend.',
+        'Testing application back-end.',
         'Ensuring software quality through automated testing.',
         'Performing manual testing to identify bugs.',
         'Collaborating with developers to resolve issues.',
