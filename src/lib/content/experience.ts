@@ -4,15 +4,26 @@ export const experienceSection: ExperienceSectionType = {
   title: 'experience',
   experiences: [
     {
+      company: 'Navari Limited',
+      companyUrl: 'https://navari.co.ke/',
+      role: 'Software Engineer',
+      started: 'May 2025',
+      upto: 'Present',
+      tasks: [
+        "Collaborate with a team to maintain and enhance ERP systems, ensuring high availability and reliability.",
+        "Identify and resolve bugs, optimize system performance, and implement new features to improve user experience.",
+      ],
+    },
+    {
       company: 'Teach2Give',
       companyUrl: 'https://teach2give.com/',
       role: 'QA/QE Intern',
       started: 'September 2024',
       upto: 'December 2024',
       tasks: [
-        "Contributed to the development and quality assurance of full-stack web applications using TypeScript",
-        "Wrote clean, maintainable code, implemented automated tests with Jest, and ensured application functionality aligned with user requirements.",
-        "Collaborated with cross-functional teams to identify and resolve bugs, optimize performance, and enhance user experience."
+        "Contributed to the development and quality assurance of full-stack web applications using TypeScript.",
+        "Developed and maintained automated tests with Jest, ensuring robust and reliable application functionality.",
+        "Worked closely with cross-functional teams to troubleshoot issues, optimize performance, and deliver high-quality software.",
       ],
     },
     {
@@ -22,9 +33,9 @@ export const experienceSection: ExperienceSectionType = {
       started: 'February 2023',
       upto: 'March 2023',
       tasks: [
-        'Gained foundational knowledge in networking, including simulation of network setups using Cisco PacketTracer.',
-        'Conducted practical exercises on computer hardware, building troubleshooting skills and hardware knowledge.',
-        'Studied the software development life-cycle, with hands-on experience in documenting and developing software projects.',
+        "Acquired foundational networking skills, including network simulation using Cisco Packet Tracer.",
+        "Performed hands-on computer hardware troubleshooting and maintenance.",
+        "Documented and participated in the software development life cycle through practical software project work.",
       ],
     }
   ],
