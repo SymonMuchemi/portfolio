@@ -27,7 +27,7 @@ export const experienceSection: ExperienceSectionType = {
       ],
     },
     {
-      company: 'Dedan Kimathi University of Technology',
+      company: 'Dedan Kimathi University',
       companyUrl: 'https://www.dkut.ac.ke/',
       role: 'Computer Science Attachment',
       started: 'February 2023',
